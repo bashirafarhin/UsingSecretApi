@@ -7,5 +7,5 @@ for using this project in your local machine
 3. run npm i to install all your dependencies
 4. run nodemon index.js to start the server on your machine
 5. visit [http://localhost:3000](http://localhost:3000) to see the website working
-6. 
+6. hover over the image to see the secret
 ![Screenshot 2024-07-21 190053](https://github.com/user-attachments/assets/7a3b2314-799b-47a8-a423-bc7402d691ec)
